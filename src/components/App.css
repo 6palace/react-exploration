@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.columnContainer, .nav {
+  display: flex;
+}
+
+.nav div {
+  margin: 1rem;
+}
+
+.active {
+  font-weight: bold;
+}
